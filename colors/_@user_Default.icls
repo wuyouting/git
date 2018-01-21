@@ -1,0 +1,21 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-01-21T20:28:01</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2017.3.3.0.0</property>
+    <property name="modified">2018-01-21T20:50:57</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="f0e4ed" />
+    <option name="LINE_NUMBERS_COLOR" value="249914" />
+  </colors>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="201dff" />
+        <option name="ERROR_STRIPE_COLOR" value="baa8ff" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
